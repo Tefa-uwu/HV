@@ -8,11 +8,11 @@ html,body{
     width: 100%;
 }
 .titulo1{
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Quicksand", sans-serif;
     font-size: 60px;
     position: fixed;
     right: 0;
     text-align: center;
-    text-shadow: 0 0 0.2em gold;
+    font-style: bold;
     top: 100px;
 }
